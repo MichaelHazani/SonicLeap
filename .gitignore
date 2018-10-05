@@ -34,3 +34,15 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Magic Leap
+MagicLeap/
+Certificate/
+.out
+.mpk
+
+# misc
+.vs
+.vscode
+*.sln
+obj/Debug/
